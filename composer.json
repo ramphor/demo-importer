@@ -1,0 +1,19 @@
+{
+  "name": "ramphor/jankx-demo-importer",
+  "description": "This package built for Jankx Framework use to quick install to make same the demo theme",
+  "type": "library",
+  "license": "GPL-3.0-only",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ramphor\\DemoImporter\\": "src/"
+    }
+  }
+}
